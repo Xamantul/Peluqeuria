@@ -1,0 +1,55 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+header {
+    background-image: url(images/Salon.jpg);
+    font-size: 20px;
+    color: #f5f0f0;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: 'Lugrasimo', cursive;
+    font-weight: bold;
+
+}
+
+nav {
+    background-color: rgb(235, 234, 241);
+    font-size: 10px;
+    color: rgb(165, 230, 250);
+    text-align: right;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+footer {
+    background-color: #A0C8E0;
+    font-size: 20px;
+    color: #333333;
+    text-align: right;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+main {
+    text-align: center;
+    color: rgb(0, 0, 0);
+    padding-right: 50px;
+    padding-left: 50px;
+    font-size: 20px;
+    font-family: 'Playfair Display', serif;
+    font-weight: bold;
+}
+
+body{
+ background-image:url(images/Salon.jpg);
+ background-size: cover;
+ width: 100%;
+ 
+}
+
